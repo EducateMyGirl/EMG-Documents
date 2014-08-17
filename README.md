@@ -10,5 +10,5 @@ Support us at : http://www.educatemygirl.org/support.html <br>
 FB: http://www.facebook.com/EducateMyGirl <br>
 Twitter: http://www.twitter.com/EducateMyGirl <br>
 
-<h2>Our Latest Videos</h2><b>Message to Boko Haram:</b><br>
-<iframe width="300" height="260" src="//www.youtube.com/embed/rsMoba0gl-w" frameborder="0" allowfullscreen></iframe>
+<h2>Our Latest Videos</h2><b>Message to Boko Haram:</b>
+https://www.youtube.com/watch?v=rsMoba0gl-w
